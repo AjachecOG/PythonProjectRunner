@@ -1,2 +1,2 @@
 # PythonProjectRunner
-Projekt na Programowanie Obiektowa - gra typu runner 
+Projekt na Programowanie Obiektowe - gra typu runner 
